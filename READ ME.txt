@@ -1,0 +1,8 @@
+Machine Learning Project Closure READ ME 
+Kinshuk sunder reddy | 20WU0101007
+
+
+1. Link to Git Repo: https://github.com/kinshukkushalreddy/Image-Segmentation-Project-for-Brain-Tumor-Prognosis.git
+
+
+2. Link to Medium Article: https://medium.com/@kinshuksunder/image-segmentation-project-for-brain-tumor-prognosis-44a47057ca63
